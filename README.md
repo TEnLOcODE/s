@@ -2,4 +2,9 @@
 
 > Getting Starting
 
-##### tenlocode.github.io/s
+#### tenlocode.github.io/s
+
+> COPYRIGHT
+
+###### This repository on the MOZILLA PUBLIC LICENSE 2.0
+###### [View File](LICENSE)
