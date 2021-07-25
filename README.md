@@ -7,4 +7,4 @@
 > COPYRIGHT
 
 ###### This repository on the MOZILLA PUBLIC LICENSE 2.0
-###### [View File](LICENSE)
+###### [View File](https://github.com/TEnLOcODE/s/blob/main/LICENSE)
