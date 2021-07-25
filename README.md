@@ -2,7 +2,7 @@
 
 > Getting Starting
 
-#### tenlocode.github.io/s
+#### [tenlocode.github.io/s](http://tenlocode.github.io/s)
 
 > COPYRIGHT
 
