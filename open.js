@@ -1,2 +1,1 @@
-var name = "TEnLOcODE";
-window.location.href = "http://tenlocode.github.io/" + name;
+window.location.href = "http://tenlocode.github.io/TEnLOcODE";
